@@ -1,4 +1,3 @@
-
 describe('teste de operadora', function() {
     it('tim teste', function() {
         browser.waitForAngularEnabled(false);

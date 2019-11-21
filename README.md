@@ -1,5 +1,8 @@
 ## Instruções
 
+### Java
+[Java](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+
 ### Nvm 
 [NVM](https://github.com/coreybutler/nvm-windows/releases)
 
